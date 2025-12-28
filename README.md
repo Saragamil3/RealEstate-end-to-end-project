@@ -1,7 +1,7 @@
 # Stages 
- - Data Colection and Cleaning
+ - Data Collection and Cleaning
  - Design and Create Database
- - Design and Create Data Warehous
+ - Design and Create Data Warehouse
  - Data Analysis and Create data story tekking using Tableau
  - Recommendations
 # Data Colection 
