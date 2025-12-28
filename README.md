@@ -2,7 +2,7 @@
  - Data Collection and Cleaning
  - Design and Create Database
  - Design and Create Data Warehouse
- - Data Analysis and Create data story tekking using Tableau
+ - Data Analysis and Create data story telling using Tableau
  - Recommendations
 # Data Colection 
    - Extract Data of listings and Properties From Property from real estate portals, specifically Property Finder and OLX.
