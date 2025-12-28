@@ -1,5 +1,5 @@
 # Stages 
- - Data Collection and Cleaning
+ - Data Collecting and Cleaning
  - Design and Create Database
  - Design and Create Data Warehouse
  - Data Analysis and Create data story telling using Tableau
