@@ -21,3 +21,7 @@ The primary goal of this project is to develop a comprehensive "Real Estate Sale
  ![DWH](https://github.com/Saragamil3/RealEstate-end-to-end-project/blob/main/DWH/DWH%20Schema.png)
 
 # Tableau 
+<p align="center">
+  <img src="https://github.com/Saragamil3/RealEstate-end-to-end-project/blob/main/Tableau/P1.jpg" width="45%" />
+  <img src="https://github.com/Saragamil3/RealEstate-end-to-end-project/blob/main/Tableau/P2.jpg" width="45%" />
+</p>
