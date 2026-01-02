@@ -8,8 +8,13 @@
    - Extract Data of listings and Properties From Property from real estate portals, specifically Property Finder and OLX.
    - Generate Data of Leads, Agents, and Campaigns Using Python code
 # Database
+  - Design database ERD
+  - Create tables and relationships
  ![Physical Schema](https://github.com/Saragamil3/RealEstate-end-to-end-project/blob/main/Database/Physical%20schema.png)
 # Data Warehouse
- ![DWH](DWH/DWH Schema.png)
+  - Design data warehouse schema
+  - Create tables and relationships
+  - Use SSIS to extract data from database, transform, and load it in the data warehouse
+ ![DWH](https://github.com/Saragamil3/RealEstate-end-to-end-project/blob/main/DWH/DWH%20Schema.png)
 
 # Tableau 
