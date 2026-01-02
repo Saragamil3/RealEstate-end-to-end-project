@@ -24,8 +24,6 @@ The primary goal of this project is to develop a comprehensive "Real Estate Sale
 <p align="center">
   <img src="https://github.com/Saragamil3/RealEstate-end-to-end-project/blob/main/Tableau/P1.jpg" width="45%" />
   <img src="https://github.com/Saragamil3/RealEstate-end-to-end-project/blob/main/Tableau/P2.jpg" width="45%" />
-</p>
-<p align="center">
   <img src="https://github.com/Saragamil3/RealEstate-end-to-end-project/blob/main/Tableau/P3.jpg" width="45%" />
   <img src="https://github.com/Saragamil3/RealEstate-end-to-end-project/blob/main/Tableau/P4.jpg" width="45%" />
  <img src="https://github.com/Saragamil3/RealEstate-end-to-end-project/blob/main/Tableau/P5.jpg" width="45%" />
