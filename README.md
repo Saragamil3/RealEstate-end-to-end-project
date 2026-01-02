@@ -1,3 +1,6 @@
+# Project Goals
+The primary goal of this project is to develop a comprehensive "Real Estate Sales and Leads Analytics Platform". This platform is designed for a property company to centralize and analyze data to improve business decisions, optimize marketing efforts, and ultimately increase conversion rates
+
 # Stages 
  - Data Collecting and Cleaning
  - Design and Create Database
