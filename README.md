@@ -10,6 +10,6 @@
 # Database
  ![Physical Schema](https://github.com/Saragamil3/RealEstate-end-to-end-project/blob/main/Database/Physical%20schema.png)
 # Data Warehouse
-
+ ![DWH](DWH/DWH Schema.png)
 
 # Tableau 
