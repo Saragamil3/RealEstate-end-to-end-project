@@ -8,7 +8,7 @@ The primary goal of this project is to develop a comprehensive "Real Estate Sale
  - Data Analysis & Data Storytelling (Tableau)
  - Recommendations
 # Data Collection & Cleaning
-   - Extract Data of listings and Properties From Property from real estate portals, specifically Property Finder and OLX.
+   - Extract Data of listings and Properties from real estate portals, specifically Property Finder and OLX.
    - Generate Data of Leads, Agents, and Campaigns Using Python code
 # Database Design & Creation
   - Design database ERD
